@@ -1,2 +1,2 @@
 # squeegee-test
-beep beep lemon squeeze
+beep beep lemon squeezess
